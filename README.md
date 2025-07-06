@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/Vikki-vika/Ordering-card-delivery/actions/workflows/gradle.yml/badge.svg)](https://github.com/Vikki-vika/Ordering-card-delivery/actions/workflows/gradle.yml)
